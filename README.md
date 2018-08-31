@@ -1,2 +1,2 @@
-# wrangling-twitter-api
-Data wrangling with twitter api
+# Data wrangling with Twitter API
+## Training to do xyz
